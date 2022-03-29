@@ -5,7 +5,7 @@ go 1.12
 require (
 	cloud.google.com/go v0.72.0
 	github.com/buger/jsonparser v1.0.0
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/grandcat/zeroconf v1.0.0
 	github.com/h2non/filetype v1.1.0
 	github.com/jroimartin/gocui v0.4.0
