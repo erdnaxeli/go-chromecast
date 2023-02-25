@@ -16,9 +16,7 @@ require (
 	github.com/rogpeppe/go-internal v1.6.2
 	github.com/sirupsen/logrus v1.7.0
 	github.com/spf13/cobra v1.1.1
-	golang.org/x/crypto v0.0.0-20201124201722-c8d3bf9c5392 // indirect
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b // indirect
-	golang.org/x/sys v0.0.0-20201126233918-771906719818 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/api v0.35.0
 	google.golang.org/genproto v0.0.0-20201119123407-9b1e624d6bc4
 )
